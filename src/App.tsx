@@ -1,8 +1,8 @@
-import EchoBloom from './components/EchoBloom'
+import EchoBloomCoach from './components/EchoBloomCoach'
 import './App.css'
 
 function App() {
-  return <EchoBloom />
+  return <EchoBloomCoach />
 }
 
 export default App
